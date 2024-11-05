@@ -1,0 +1,8 @@
+Crie um robô para uma balada onde pergunte o nome da pessoa que irá adentrar a festa e a sua idade.
+
+logo após isso pergunte se a pessoa deseja uma bebida e se sim passe uma lista de bebidas e ofereça 
+o camarote com bebidas gratis até ás 03:00.
+
+Se a pessoa aceitar o camarote então informe que fica no valor de R$ 150,00 
+
+Nesta balada é proibido entrada de menores e crianças.
